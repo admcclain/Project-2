@@ -1,3 +1,2 @@
-MART 440
-Project 2
-AUTONOMOUS AGENTS
+MART 440--Project 2
+Autonomous Agents
